@@ -5,8 +5,6 @@
 
 👨‍🎓My name is Parikalp Bhardwaj, and I have a strong passion for modern, performance-oriented technologies such as Rust, Go (Golang), and Kubernetes. 💻 I thrive on delving into the technical depths of these tools, exploring their capabilities and applying them in areas of system programming and cloud infrastructure. My professional journey is marked by a commitment to mastering these technologies, ensuring I can leverage their full potential to deliver innovative and efficient solutions.
 
-## 📊 GitHub Stats
-
 ## 🤹‍♂️Technical Skills
 
 
