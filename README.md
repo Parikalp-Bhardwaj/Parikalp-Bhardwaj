@@ -1,4 +1,4 @@
-### Hello there! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50px" height="50px">
+### Hello there! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTFldGtkdXYzcnVmeHVkNmYzbW1zdmEzeDJsOWpuMDFjeGdyYXdseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRPy8MKag9U1U88hzY/giphy.webp" width="50px" height="50px">
 
 ## 🙂 About Me
 
