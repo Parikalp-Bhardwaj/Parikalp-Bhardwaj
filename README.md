@@ -9,7 +9,6 @@
 ## 🖇️ Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://in.linkedin.com/in/parikalp-bhardwaj)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Parikalp-Bhardwaj/)
 [![LeetCode](https://img.shields.io/badge/Leetcode-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://leetcode.com/u/imparikalp17/)
 
 
