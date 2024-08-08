@@ -8,7 +8,7 @@
 
 ## 🖇️ Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://in.linkedin.com/in/parikalp-bhardwaj)
+
 [![LeetCode](https://img.shields.io/badge/Leetcode-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://leetcode.com/u/imparikalp17/)
 
 
