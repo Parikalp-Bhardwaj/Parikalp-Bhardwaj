@@ -7,7 +7,7 @@
 ---
 
 3+ years across fintech, blockchain infrastructure, distributed services, and AI-enabled systems.
-Currently building a multi-chain crypto payment gateway in Rust at Delta. Previously ran private Ethereum infrastructure on Kubernetes at CBA.
+Built a multi-chain crypto payment gateway in Rust at Delta. Previously ran private Ethereum infrastructure on Kubernetes at CBA.
 
 ---
 
