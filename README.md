@@ -28,4 +28,4 @@ Opens *Below the Abstraction*, a low-level Rust series. Traces `std::thread::spa
 
 ### Connect
 
-[parikalpbhardwaj.com](https://www.parikalpbhardwaj.com/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/parikalp-bhardwaj/) &nbsp;·&nbsp; [dev.to](https://dev.to/parikalp_bhardwaj_9e9d812)
+[parikalpbhardwaj.com](https://www.parikalpbhardwaj.com/) &nbsp;·&nbsp; [dev.to](https://dev.to/parikalp_bhardwaj_9e9d812)
