@@ -4,12 +4,6 @@
 
 > *Not chasing frameworks. Chasing how systems actually work.*
 
----
-
-3+ years across fintech, blockchain infrastructure, distributed services, and AI-enabled systems.
-Built a multi-chain crypto payment gateway in Rust at Delta. Previously ran private Ethereum infrastructure on Kubernetes at CBA.
-
----
 
 ### Stack
 
